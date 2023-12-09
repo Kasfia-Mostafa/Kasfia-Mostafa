@@ -4,14 +4,13 @@
 Hi 👋 My name is Kasfia Mostafa
 </h1>
 
-I'm a passionate web developer skilled in front-end and back-end technologies, dedicated to crafting user-friendly, high-performance websites that merge functionality with compelling design. I work with React.js ,Node.js  ,Express.js and MongoDB.
+I'm a passionate web developer skilled in front-end and back-end technologies, dedicated to crafting user-friendly, high-performance websites that merge functionality with compelling design. I work with React.js ,Node.js ,Express.js and MongoDB.
 
-
-* 🌍  I'm based in Dhaka, Bangladesh
-* ✉️  You can contact me at [kasfiamostafa03@gmail.com](mailto:kasfiamostafa03@gmail.com)
-* 🧠  I'm learning Next.js and TypeScript
-* 🤝  I'm open to collaborating on crafting MERN projects
-* ⚡  I like to read. So I read documentations
+- 🌍 I'm based in Dhaka, Bangladesh
+- ✉️ You can contact me at [kasfiamostafa03@gmail.com](mailto:kasfiamostafa03@gmail.com)
+- 🧠 I'm learning Next.js and TypeScript
+- 🤝 I'm open to collaborating on crafting MERN projects
+- ⚡ I like to read. So I read documentations
 
 ## Skills
 
@@ -31,6 +30,7 @@ I'm a passionate web developer skilled in front-end and back-end technologies, d
 <a href="https://github.com/Kasfia-Mostafa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasfia-Mostafa&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/Kasfia-Mostafa"><img src="https://github-readme-stats.vercel.app/api?username=Kasfia-Mostafa&show_icons=true&hide=prs,issues,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Kasfia-Mostafa's GitHub stats" /></a>
+
 </div>
 
 # 💻 My Recent Projects
@@ -39,9 +39,9 @@ Welcome to my 3 Projects Website! Here, explore my different works in different 
 
 ## 🏪 Moonstar Restaurant
 
-### ⭐ Features
-
 A visually appealing, mobile-friendly site showcasing menu, reservations, reviews, and contact for a seamless restaurant experience.
+
+### ⭐ Features
 
 - Framer motion animation
 - Aos Animation
@@ -56,14 +56,15 @@ A visually appealing, mobile-friendly site showcasing menu, reservations, review
 
 ## 🏨 Mi Casa
 
-### ⭐ Features
-
-Develop intuitive real estate websites for seamless property browsing. Modern design, user-friendly interfaces, and responsive layouts for your property listings
+Develop intuitive real estate websites for seamless property browsing. Modern design, user-friendly interfaces, and responsive layouts for your property listings.
+<br>
 
 Admin email: alanwalker@gmail.com <br>
 Admin password: alanwalker#9 <br>
 Agent email: jhonsmith@gmail.com <br>
 Agent password: jhonsmith#9 <br>
+
+### ⭐ Features
 
 - Framer motion animation
 - Admin and Agent panel
@@ -78,9 +79,9 @@ Agent password: jhonsmith#9 <br>
 
 ## 🎥 Film Forecast
 
-### ⭐ Features
-
 Discover cinematic wonders! Our website showcases film events—festivals, screenings, and premieres. Stay updated, find tickets, and immerse yourself in the magic of storytelling on the big screen.
+
+### ⭐ Features
 
 - Aos animation
 - Screening movies
