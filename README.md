@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/Kasfia-Mostafa/Kasfia-Mostafa/main/Orange%20and%20White%20Modern%20World%20Consumer%20Rights%20Day%20Banner.jpg'></img>
+<img src='https://raw.githubusercontent.com/Kasfia-Mostafa/Kasfia-Mostafa/main/Orange%20and%20White.jpg'></img>
 
 # Hi 👋 My name is Kasfia Mostafa
 
