@@ -20,14 +20,16 @@ I'm a passionate web developer skilled in front-end and back-end technologies, d
 
 ## My GitHub Stats
 
-<p align="center">
-<a href="http://www.github.com/Kasfia-Mostafa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kasfia-Mostafa&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
-
-<a href="http://www.github.com/Kasfia-Mostafa"><img src="https://github-readme-stats.vercel.app/api?username=Kasfia-Mostafa&show_icons=true&hide=prs,issues,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Kasfia-Mostafa's GitHub stats" /></a>
+<div align="center">
+<a href="http://www.github.com/Kasfia-Mostafa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kasfia-Mostafa&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Kasfia-Mostafa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasfia-Mostafa&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="http://www.github.com/Kasfia-Mostafa"><img src="https://github-readme-stats.vercel.app/api?username=Kasfia-Mostafa&show_icons=true&hide=prs,issues,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Kasfia-Mostafa's GitHub stats" /></a>
+</div>
+
 # 💻 My Recent Projects
+
 Welcome to my 3 Projects Website! Here, explore my different works in different areas. Discover this with cool, creative, and helpful projects.
 
 ## 🏪 Moonstar Restaurant
@@ -82,4 +84,4 @@ Discover cinematic wonders! Our website showcases film events—festivals, scree
 - React.js, Node.js
 
 <a href='https://film-forecast-project.web.app/'>Live Demo</a> |
-<a href='https://github.com/Kasfia-Mostafa/Film-Forecast'>Client Site</a> 
+<a href='https://github.com/Kasfia-Mostafa/Film-Forecast'>Client Site</a>
