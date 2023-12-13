@@ -73,7 +73,7 @@ Agent password: jhonsmith#9 <br>
 - JWT token
 - React.js, Node.js, MongoDB, express.js
 
-<a href='https://mi-casa-a1de0.web.app/'>Live Demo</a> |
+<a href='https://657940d9fdd19b57632d5c32--ornate-chebakia-aac677.netlify.app/'>Live Demo</a> |
 <a href='https://github.com/Kasfia-Mostafa/mi-casa'>Client Site</a> |
 <a href='https://github.com/Kasfia-Mostafa/mi-casa-server'>Server Site</a>
 
