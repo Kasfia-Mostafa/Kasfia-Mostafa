@@ -1,4 +1,4 @@
-<img src='https://ibb.co/CQgyMP9'></img>
+<img src='/kmgit.jpg'></img>
 
 <h1 align="center">
 Hi 👋 My name is Kasfia Mostafa
