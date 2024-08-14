@@ -36,7 +36,7 @@ I'm a passionate web developer skilled in front-end and back-end technologies, d
 
 Welcome to my 3 Projects Website! Here, explore my different works in different areas. Discover this with cool, creative, and helpful projects.
 
-## 🏪 Moonstar Restaurant
+## 🚀 CarePulse
 
 Welcome to CarePulse! It’s a patient management application that simplifies healthcare interactions.
 
@@ -54,10 +54,30 @@ Welcome to CarePulse! It’s a patient management application that simplifies he
 - Sentry, Twilio
 
 <a href='https://care-pulse-one.vercel.app/'>Live Demo</a> |
-<a href='https://github.com/Kasfia-Mostafa/CarePulse'>Github Code Link</a> |
+<a href='https://github.com/Kasfia-Mostafa/CarePulse'>Github Code Link</a>
 
 
-## 🏨 Mi Casa
+## 🚀 Kinetec
+
+Kinetec is a responsive website for gym equipment
+
+### ⭐ Features
+
+- Add, remove, and update products
+- Search and sort products by price and category
+- Paginate through product listings
+- Add products to a cart and place orders
+
+### 🌐 TECH 
+
+Frontend: React, Redux Toolkit, TypeScript, Tailwind CSS, React Router DOM
+Backend: TypeScript, Express, MongoDB, Mongoose, Zod validation
+
+<a href='https://care-pulse-one.vercel.app/'>Live Demo</a> |
+<a href='https://github.com/Kasfia-Mostafa/CarePulse'>Github Code Link</a>
+
+
+## 🚀 Mi Casa
 
 Kinetec is a responsive website for gym equipment where users can:
 <br>
