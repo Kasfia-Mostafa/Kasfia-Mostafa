@@ -10,7 +10,6 @@ I'm a passionate web developer skilled in front-end and back-end technologies, d
 - ✉️ You can contact me at [kasfiamostafa03@gmail.com](mailto:kasfiamostafa03@gmail.com)
 - 🧠 I'm learning Next.js and TypeScript
 - 🤝 I'm open to collaborating on crafting MERN projects
-- ⚡ I like to read. So I read documentations
 
 ## Skills
 
@@ -39,24 +38,28 @@ Welcome to my 3 Projects Website! Here, explore my different works in different 
 
 ## 🏪 Moonstar Restaurant
 
-A visually appealing, mobile-friendly site showcasing menu, reservations, reviews, and contact for a seamless restaurant experience.
+Welcome to CarePulse! It’s a patient management application that simplifies healthcare interactions.
 
 ### ⭐ Features
 
-- Framer motion animation
-- Aos Animation
-- Google Sign in
-- Add product for admin
-- JWT token
-- React.js, Node.js, MongoDB, express.js
+- Register, book, and manage their doctor appointments.
+- Administrative tools for scheduling, confirming, and canceling appointments.
+- SMS notifications.
 
-<a href='https://moonstar-restaurant.web.app/'>Live Demo</a> |
-<a href='https://github.com/Kasfia-Mostafa/mi-casa'>Client Site</a> |
-<a href='https://github.com/Kasfia-Mostafa/mi-casa-server'>Server Site</a>
+### 🌐 TECH 
+- Next.js, React,
+- Typescript,
+- TailwindCSS, ShadCN,
+- Appwrite, 
+- Sentry, Twilio
+
+<a href='https://care-pulse-one.vercel.app/'>Live Demo</a> |
+<a href='https://github.com/Kasfia-Mostafa/CarePulse'>Github Code Link</a> |
+
 
 ## 🏨 Mi Casa
 
-Develop intuitive real estate websites for seamless property browsing. Modern design, user-friendly interfaces, and responsive layouts for your property listings.
+Kinetec is a responsive website for gym equipment where users can:
 <br>
 
 Admin email: alanwalker@gmail.com <br>
@@ -76,18 +79,3 @@ Agent password: jhonsmith#9 <br>
 <a href='https://657940d9fdd19b57632d5c32--ornate-chebakia-aac677.netlify.app/'>Live Demo</a> |
 <a href='https://github.com/Kasfia-Mostafa/mi-casa'>Client Site</a> |
 <a href='https://github.com/Kasfia-Mostafa/mi-casa-server'>Server Site</a>
-
-## 🎥 Film Forecast
-
-Discover cinematic wonders! Our website showcases film events—festivals, screenings, and premieres. Stay updated, find tickets, and immerse yourself in the magic of storytelling on the big screen.
-
-### ⭐ Features
-
-- Aos animation
-- Screening movies
-- Quiz Game
-- Google Sign in
-- React.js, Node.js
-
-<a href='https://film-forecast-project.web.app/'>Live Demo</a> |
-<a href='https://github.com/Kasfia-Mostafa/Film-Forecast'>Client Site</a>
