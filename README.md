@@ -73,8 +73,9 @@ Kinetec is a responsive website for gym equipment
 Frontend: React, Redux Toolkit, TypeScript, Tailwind CSS, React Router DOM
 Backend: TypeScript, Express, MongoDB, Mongoose, Zod validation
 
-<a href='https://care-pulse-one.vercel.app/'>Live Demo</a> |
-<a href='https://github.com/Kasfia-Mostafa/CarePulse'>Github Code Link</a>
+<a href='https://kinetec.vercel.app/'>Live Demo</a> |
+<a href='https://github.com/Kasfia-Mostafa/kinetic'>Github Code Client</a>
+<a href="https://github.com/Kasfia-Mostafa/kinetec-server">Github Code Server</a>
 
 
 ## 🚀 Mi Casa
