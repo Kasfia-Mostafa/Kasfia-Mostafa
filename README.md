@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/Kasfia-Mostafa/Kasfia-Mostafa/main/Orange%20and%20White.jpg'></img>
+<img src='https://ibb.co/CQgyMP9'></img>
 
 <h1 align="center">
 Hi 👋 My name is Kasfia Mostafa
