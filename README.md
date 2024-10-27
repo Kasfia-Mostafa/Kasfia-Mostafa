@@ -8,8 +8,7 @@ I'm a passionate web developer skilled in front-end and back-end technologies, d
 
 - 🌍 I'm based in Dhaka, Bangladesh
 - ✉️ You can contact me at [kasfiamostafa03@gmail.com](mailto:kasfiamostafa03@gmail.com)
-- 🧠 I'm learning Next.js and TypeScript
-- 🤝 I'm open to collaborating on crafting MERN projects
+
 
 ## Skills
 
@@ -32,71 +31,4 @@ I'm a passionate web developer skilled in front-end and back-end technologies, d
 
 </div>
 
-# 💻 My Recent Projects
 
-Welcome to my 3 Projects Website! Here, explore my different works in different areas. Discover this with cool, creative, and helpful projects.
-
-## 🚀 CarePulse
-
-Welcome to CarePulse! It’s a patient management application that simplifies healthcare interactions.
-
-### ⭐ Features
-
-- Register, book, and manage their doctor appointments.
-- Administrative tools for scheduling, confirming, and canceling appointments.
-- SMS notifications.
-
-### 🌐 TECH 
-- Next.js, React,
-- Typescript,
-- TailwindCSS, ShadCN,
-- Appwrite, 
-- Sentry, Twilio
-
-<a href='https://care-pulse-one.vercel.app/'>Live Demo</a> |
-<a href='https://github.com/Kasfia-Mostafa/CarePulse'>Github Code Link</a>
-
-
-## 🚀 Kinetec
-
-Kinetec is a responsive website for gym equipment
-
-### ⭐ Features
-
-- Add, remove, and update products
-- Search and sort products by price and category
-- Paginate through product listings
-- Add products to a cart and place orders
-
-### 🌐 TECH 
-
-Frontend: React, Redux Toolkit, TypeScript, Tailwind CSS, React Router DOM
-Backend: TypeScript, Express, MongoDB, Mongoose, Zod validation
-
-<a href='https://kinetec.vercel.app/'>Live Demo</a> |
-<a href='https://github.com/Kasfia-Mostafa/kinetic'>Github Code Client</a>
-<a href="https://github.com/Kasfia-Mostafa/kinetec-server">Github Code Server</a>
-
-
-## 🚀 Mi Casa
-
-Kinetec is a responsive website for gym equipment where users can:
-<br>
-
-Admin email: alanwalker@gmail.com <br>
-Admin password: alanwalker#9 <br>
-Agent email: jhonsmith@gmail.com <br>
-Agent password: jhonsmith#9 <br>
-
-### ⭐ Features
-
-- Framer motion animation
-- Admin and Agent panel
-- Google SignIn
-- Stripe Payment
-- JWT token
-- React.js, Node.js, MongoDB, express.js
-
-<a href='https://657940d9fdd19b57632d5c32--ornate-chebakia-aac677.netlify.app/'>Live Demo</a> |
-<a href='https://github.com/Kasfia-Mostafa/mi-casa'>Client Site</a> |
-<a href='https://github.com/Kasfia-Mostafa/mi-casa-server'>Server Site</a>
