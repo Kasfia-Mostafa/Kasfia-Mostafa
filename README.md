@@ -4,7 +4,7 @@
 Hi 👋 My name is Kasfia Mostafa
 </h1>
 
-I'm a Data Analyst skilled SQL, Tableau, Microsoft Excel, Python, Pandas, NumPy
+I'm a Data Analyst skilled SQL, Tableau, Microsoft Excel, Python, Pandas and NumPy.
 
 - 🌍 I'm from Dhaka, Bangladesh
 - ✉️ You can contact me at [kasfiamostafa03@gmail.com](mailto:kasfiamostafa03@gmail.com)
