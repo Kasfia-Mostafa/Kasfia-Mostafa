@@ -1,10 +1,10 @@
-![Orange and White Modern World Consumer Rights Day Banner](https://github.com/user-attachments/assets/e4656e21-9c46-41e2-83d9-48ba668ce942)
+![Profile](https://github.com/user-attachments/assets/91868325-1139-4824-b393-6ce2b41e7f9b)
 
 <h1 align="center">
 Hi 👋 My name is Kasfia Mostafa
 </h1>
 
-I'm a Data Analyst skilled SQL, Tableau, Microsoft Excel, Python, Pandas and NumPy.
+I'm a Data Analyst skilled SQL, Power BI, Microsoft Excel, Python, Pandas and NumPy.
 
 - 🌍 I'm from Dhaka, Bangladesh
 - ✉️ You can contact me at [kasfiamostafa03@gmail.com](mailto:kasfiamostafa03@gmail.com)
