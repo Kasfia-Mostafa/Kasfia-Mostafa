@@ -1,8 +1,6 @@
 ![Profile](https://github.com/user-attachments/assets/91868325-1139-4824-b393-6ce2b41e7f9b)
 
-<h1 align="center">
-Hi 👋 My name is Kasfia Mostafa
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Kasfia+Mostafa)](https://git.io/typing-svg)
 
 I'm a Data Analyst skilled SQL, Power BI, Microsoft Excel, Python, Pandas and NumPy.
 
