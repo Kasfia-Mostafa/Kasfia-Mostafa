@@ -18,7 +18,7 @@ I'm a Data Analyst skilled SQL, Power BI, Microsoft Excel, Python, Pandas and Nu
 
 
 ![](https://leetcard.jacoblin.cool/Kasfia_Mostafa?theme=unicorn)
-[![GitHub Streak](https://streak-stats.demolab.com/?Kasfia-Mostafa=DenverCoder1&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/Kasfia-Mostafa=DenverCoder1&theme=react)](https://git.io/streak-stats)
 
 
 
