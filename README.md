@@ -18,7 +18,7 @@ I'm a Data Analyst skilled SQL, Power BI, Microsoft Excel, Python, Pandas and Nu
 
 <div align="center">
 ![](https://leetcard.jacoblin.cool/Kasfia_Mostafa?theme=unicorn)
-![](https://leetcard.jacoblin.cool/Kasfia_Mostafa?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
 
 </div>
 
