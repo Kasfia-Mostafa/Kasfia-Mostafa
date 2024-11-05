@@ -16,7 +16,7 @@ I'm a Data Analyst skilled SQL, Power BI, Microsoft Excel, Python, Pandas and Nu
 
 ## My LeetCode Stats
 
-<div align="center">
+<div align="center" width="100%">
 ![](https://leetcard.jacoblin.cool/Kasfia_Mostafa?theme=unicorn)
 </div>
 
