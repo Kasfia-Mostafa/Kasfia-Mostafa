@@ -17,7 +17,8 @@ I'm a Data Analyst skilled SQL, Power BI, Microsoft Excel, Python, Pandas and Nu
 ## My GitHub Stats
 
 
-![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
 
 
 
