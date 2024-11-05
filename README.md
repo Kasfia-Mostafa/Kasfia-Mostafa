@@ -1,6 +1,6 @@
 ![Profile](https://github.com/user-attachments/assets/91868325-1139-4824-b393-6ce2b41e7f9b)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Kasfia+Mostafa)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Hi+I'm+Kasfia+Mostafa" alt="Typing SVG" /></a>
 
 I'm a Data Analyst skilled SQL, Power BI, Microsoft Excel, Python, Pandas and NumPy.
 
