@@ -18,7 +18,7 @@ I'm a Data Analyst skilled SQL, Power BI, Microsoft Excel, Python, Pandas and Nu
 
 
 ![](https://leetcard.jacoblin.cool/Kasfia_Mostafa?theme=unicorn)
-[![GitHub Streak](https://streak-stats.demolab.com/Kasfia-Mostafa?DenverCoder1&theme=react)](https://git.io/streak-stats)
+ <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?Kasfia-Mostafa=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 
 
