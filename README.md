@@ -17,12 +17,8 @@ I'm a Data Analyst skilled SQL, Power BI, Microsoft Excel, Python, Pandas and Nu
 ## My GitHub Stats
 
 <div align="center">
-<a href="http://www.github.com/Kasfia-Mostafa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kasfia-Mostafa&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
-
-<a href="http://www.github.com/Kasfia-Mostafa"><img src="https://github-readme-stats.vercel.app/api?username=Kasfia-Mostafa&show_icons=true&hide=prs,issues,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Kasfia-Mostafa's GitHub stats" /></a>
+![](https://leetcard.jacoblin.cool/Kasfia_Mostafa?theme=unicorn)
+![](https://leetcard.jacoblin.cool/Kasfia_Mostafa?theme=light,unicorn)
 
 </div>
 
